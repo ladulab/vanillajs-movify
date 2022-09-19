@@ -1,10 +1,10 @@
 *{
   margin: 0 auto;
+  overflow-x: hidden;
 }
 
 body {
   font-family: "Roboto", sans-serif;
-  overflow-x: hidden;
 }
 
 .navbar {
